@@ -46,14 +46,19 @@
 
 ## 🛠️ Stack Tecnológico
 
-### ☁️ Cloud & Infraestrutura
+### ☁️ Cloud & IaaS
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
 ![Nutanix](https://img.shields.io/badge/Nutanix-024DA1?style=flat-square&logo=nutanix&logoColor=white)
 ![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
+![oVirt](https://img.shields.io/badge/oVirt-2E8B57?style=flat-square&logo=ovirt&logoColor=white)
 
-### 🐳 Containers & Orquestração
+### 🖥️ Server Management & Hardware
+![Lenovo XClarity](https://img.shields.io/badge/Lenovo_XClarity-E2231A?style=flat-square&logo=lenovo&logoColor=white)
+![Spacewalk](https://img.shields.io/badge/Spacewalk-EE0000?style=flat-square&logo=red-hat&logoColor=white)
+
+### 🐳 Containers & Orquestração (PaaS)
 ![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
@@ -62,9 +67,32 @@
 ![Oracle](https://img.shields.io/badge/Oracle_Exadata-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
 ![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+
+### 🌐 Networking & Security
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
+![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
+![F5](https://img.shields.io/badge/F5_BigIP-E4002B?style=flat-square&logo=f5&logoColor=white)
+![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
+![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
+![HPE](https://img.shields.io/badge/HPE_Networking-01A982?style=flat-square&logo=hpe&logoColor=white)
+![Lenovo](https://img.shields.io/badge/Lenovo_Switching-E2231A?style=flat-square&logo=lenovo&logoColor=white)
+
+### 📊 Monitoramento & Observability
+![Zabbix](https://img.shields.io/badge/Zabbix-D50000?style=flat-square&logo=zabbix&logoColor=white)
+![SIEM](https://img.shields.io/badge/SIEM-SOC_Operations-red?style=flat-square)
+
+### 🔒 Segurança & Vulnerability Management
+![Nessus](https://img.shields.io/badge/Nessus-00C3FF?style=flat-square&logo=tenable&logoColor=white)
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-orange?style=flat-square)
+![LGPD](https://img.shields.io/badge/LGPD-Compliance-green?style=flat-square)
+![SOC](https://img.shields.io/badge/SOC_1/2-Type_II-blue?style=flat-square)
+
+### 💾 Backup & DR
+![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white)
 
 ### 🔧 DevOps & Automação
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
@@ -80,6 +108,9 @@
 ![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6F61?style=flat-square&logoColor=white)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
 
+### 🌐 DNS & Services
+![PowerDNS](https://img.shields.io/badge/PowerDNS-00599C?style=flat-square&logo=powerdns&logoColor=white)
+
 ### 💼 Sistemas de Negócio & Integração
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
 ![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
@@ -93,12 +124,6 @@
 ![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
 ![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
-
-### 🔒 Segurança & Compliance
-![LGPD](https://img.shields.io/badge/LGPD-Compliance-green?style=flat-square)
-![SOC](https://img.shields.io/badge/SOC_1/2-Type_II-blue?style=flat-square)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-orange?style=flat-square)
-![SIEM](https://img.shields.io/badge/SIEM-SOC_Operations-red?style=flat-square)
 
 ---
 
@@ -114,35 +139,42 @@
 ### 🔒 Segurança & Compliance
 <div>
 
-`Governança de Segurança da Informação` `Cibersegurança` `Governança de TI` `NIST` `Normas ISO` `SOC 1/2 Type II` `LGPD` `Zero Trust` `SIEM`
+`Governança de Segurança da Informação` `Cibersegurança` `Governança de TI` `NIST` `Normas ISO` `SOC 1/2 Type II` `LGPD` `Zero Trust` `SIEM` `Nessus`
 
 </div>
 
 ### 🖥️ Infraestrutura & Virtualização
 <div>
 
-`Linux (22+ recomendações)` `RHEL` `Debian` `Ubuntu` `FreeBSD` `VMware/ESX` `KVM` `Nutanix` `High Availability Clustering` `DRBD` `NFS` `Embedded Linux` `Kernel Linux`
+`Linux (22+ recomendações)` `RHEL` `Debian` `Ubuntu` `FreeBSD` `VMware/ESX` `KVM` `Nutanix` `OpenStack` `oVirt` `High Availability Clustering` `DRBD` `NFS` `Embedded Linux` `Kernel Linux` `XClarity` `Spacewalk`
 
 </div>
 
 ### ☁️ Cloud & Containers
 <div>
 
-`AWS` `Azure` `GCP` `Docker` `Kubernetes` `OpenShift` `OpenStack`
+`AWS` `Azure` `GCP` `Docker` `Kubernetes` `OpenShift`
 
 </div>
 
 ### 🗄️ Banco de Dados
 <div>
 
-`Oracle Exadata` `PostgreSQL` `MySQL` `MongoDB` `Redis`
+`Oracle Exadata` `PostgreSQL` `MySQL` `SQL Server` `MongoDB` `Redis`
 
 </div>
 
 ### 🌐 Networking & Protocolos
 <div>
 
-`BGP` `OSPF` `RIP` `Roteamento Dinâmico` `Cisco Systems` `Switches` `Serviços de Rede` `Protocolo IP`
+`BGP` `OSPF` `RIP` `Roteamento Dinâmico` `Cisco Systems` `FortiGate` `F5 BigIP` `pfSense` `Ubiquiti` `HPE` `Lenovo` `PowerDNS` `Switches` `Serviços de Rede` `Protocolo IP`
+
+</div>
+
+### 📊 Monitoramento & Backup
+<div>
+
+`Zabbix` `Veeam` `SIEM`
 
 </div>
 
