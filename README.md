@@ -18,6 +18,7 @@
 - 📍 Florianópolis, SC - Brasil
 - 💼 Liderando **+160 profissionais** em áreas de Infraestrutura, DevOps, Segurança e Sistemas
 - 🎯 Especialista em ambientes de **alta disponibilidade** e **missão crítica**
+- 🔬 Desenvolvendo expertise em **Data Governance** e **API Intelligence**
 
 ---
 
@@ -56,12 +57,20 @@
 ![Oracle](https://img.shields.io/badge/Oracle_Exadata-F80000?style=flat-square&logo=oracle&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
 ![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
 
 ### 🔧 DevOps & Automação
 ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
 ![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
 ![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+
+### 📊 Data Governance & API Intelligence
+![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
+![OpenMetadata](https://img.shields.io/badge/OpenMetadata-7B68EE?style=flat-square&logo=data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA4AAAAOCAYAAAAfSC3RAAAACXBIWXMAAAsTAAALEwEAmpwYAAAA&logoColor=white)
+![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6F61?style=flat-square&logo=data&logoColor=white)
 
 ### 💼 Sistemas de Negócio
 ![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
@@ -71,6 +80,9 @@
 
 ### 🐧 Sistemas Operacionais
 ![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white)
+![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
+![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
+![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
 
 ---
@@ -86,6 +98,12 @@
 - **Salesforce CRM** - Visão 360° do cliente com integrações via MuleSoft
 - **SAP → NetSuite** - Modernização do ERP com redução significativa de custos
 - **RPA** - Automação de processos com redução de 78% em erros de faturamento
+
+### 📊 Data Governance & API Intelligence
+- **Plataforma de Governança de Dados** - Catalogação e rastreabilidade de APIs com OpenMetadata
+- **Data Quality Framework** - Validação automatizada com Great Expectations e Airflow
+- **API Proxy Inteligente** - Interceptação, catalogação e governança de APIs em tempo real
+- **Catálogo de Dados Abertos** - Estruturação de APIs governamentais brasileiras (IBGE, BCB, Receita)
 
 ### 🔒 Segurança & Compliance
 - **SOC 1 & SOC 2** (Tipo 1 e 2) - Certificações de auditoria externa
@@ -131,6 +149,7 @@ Estou sempre aberto a discutir:
 - 🏗️ Arquitetura de infraestrutura de missão crítica
 - ☁️ Estratégias de migração para cloud híbrida
 - 🔄 Transformação digital e DevOps
+- 📊 Data Governance e API Intelligence
 - 🤖 Implementação de IA/ML em operações
 - 💳 Tecnologia no setor financeiro e pagamentos
 
