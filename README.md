@@ -102,6 +102,73 @@
 
 ---
 
+## 💼 Competências Profissionais
+
+### 📈 Gestão & Liderança
+<div>
+
+`KPIs & Indicadores` `Melhoria de Processos` `Gestão Operacional` `Planejamento de Projetos` `Gestão de Orçamentos` `Orçamento & Previsão` `Controle de Custos` `Gestão de Tecnologias` `Gestão de CRM` `Infraestrutura de TI`
+
+</div>
+
+### 🔒 Segurança & Compliance
+<div>
+
+`Governança de Segurança da Informação` `Cibersegurança` `Governança de TI` `NIST` `Normas ISO` `SOC 1/2 Type II` `LGPD` `Zero Trust` `SIEM`
+
+</div>
+
+### 🖥️ Infraestrutura & Virtualização
+<div>
+
+`Linux (22+ recomendações)` `RHEL` `Debian` `Ubuntu` `FreeBSD` `VMware/ESX` `KVM` `Nutanix` `High Availability Clustering` `DRBD` `NFS` `Embedded Linux` `Kernel Linux`
+
+</div>
+
+### ☁️ Cloud & Containers
+<div>
+
+`AWS` `Azure` `GCP` `Docker` `Kubernetes` `OpenShift` `OpenStack`
+
+</div>
+
+### 🗄️ Banco de Dados
+<div>
+
+`Oracle Exadata` `PostgreSQL` `MySQL` `MongoDB` `Redis`
+
+</div>
+
+### 🌐 Networking & Protocolos
+<div>
+
+`BGP` `OSPF` `RIP` `Roteamento Dinâmico` `Cisco Systems` `Switches` `Serviços de Rede` `Protocolo IP`
+
+</div>
+
+### 🔧 Web Servers & Middleware
+<div>
+
+`Apache HTTP Server` `Apache Tomcat` `Postfix` `Sendmail` `Squid` `PHP` `PhpMyAdmin`
+
+</div>
+
+### 📊 Metodologias & Frameworks
+<div>
+
+`ITIL (12+ recomendações)` `Scrum (8+ recomendações)` `DevOps` `DevSecOps` `Sistemas Operacionais (19+ recomendações)`
+
+</div>
+
+### 💳 Domínio de Negócio
+<div>
+
+`Setor de Pagamentos` `Fintech` `Provedores de Internet (ISP)` `Missão Crítica` `Alta Disponibilidade`
+
+</div>
+
+---
+
 ## 🏆 Projetos Estratégicos
 
 ### 📊 Governança de Dados & Data-Driven Transformation
