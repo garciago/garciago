@@ -6,7 +6,7 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garciago)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garcia.ago@gmail.com)
 
-**Diretor de Operações de TI | AI-First Engineering | Orquestração Agêntica via PDCA**
+**Diretor de Operações de TI | AI-First Engineering | Orquestração Agêntica**
 
 </div>
 
@@ -138,7 +138,7 @@ O GitHub vira o **sistema operacional do desenvolvimento**: Issues são tarefas,
 ### Engenharia Agêntica & IA
 <div>
 
-`Orquestração de Agentes de IA` `Ciclo PDCA com LLMs` `Prompt Engineering` `GitHub Copilot Agent Mode` `Anthropic Claude` `ChatGPT` `Perplexity` `MCP (Model Context Protocol)` `TDD com IA` `Quality Gates Automatizados` `Clean Architecture` `Delegação para Agentes Autônomos` `AI-First Development`
+`Orquestração de Agentes de IA` `Ciclo LLMs` `Prompt Engineering` `GitHub Copilot Agent Mode` `Anthropic Claude` `ChatGPT` `Perplexity` `MCP (Model Context Protocol)` `TDD com IA` `Quality Gates Automatizados` `Clean Architecture` `Delegação para Agentes Autônomos` `AI-First Development`
 
 </div>
 
