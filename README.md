@@ -1,4 +1,4 @@
-# Olá! Eu sou o Thiago Garcia 👋
+# Thiago Garcia
 
 <div align="center">
 
@@ -6,196 +6,174 @@
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/garciago)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:garcia.ago@gmail.com)
 
-**Diretor de Operações de TI | Liderança Técnica Hands-On | Governança de Dados, Cloud Híbrida & On-Premises**
+**Diretor de Operações de TI | AI-First Engineering | Orquestração Agêntica via PDCA**
 
 </div>
 
 ---
 
-## 🚀 Sobre Mim
+## Sobre Mim
 
-**Líder de Tecnologia** com **+20 anos de experiência** técnica hands-on e gestão estratégica em ambientes de missão crítica. Atualmente Diretor de Operações de TI na **Nexxera**, gerenciando equipe de **160 profissionais** com abordagem participativa, mantendo conhecimento profundo em arquiteturas on-premises e cloud híbrida.
+Líder de Tecnologia com **+20 anos de experiência** em infraestrutura de missão crítica e gestão de equipes de até **160 profissionais**. Nos últimos anos, fiz a transição para **engenharia de desenvolvimento com IA**, construindo produtos SaaS completos como desenvolvedor solo — orquestrando equipes de agentes especializados em vez de escrever cada linha manualmente.
 
-- 🏢 **Diretor de Operações de TI** no **Grupo Nexxera**
-- 📍 Florianópolis, SC - Brasil
-- 👥 Liderando **6 áreas estratégicas**: Infraestrutura, Segurança da Informação, Atendimento/Operação, Implantação, Service Delivery, Sistemas Internos e Faturamento
-- 🎯 Reportando diretamente ao **CEO**
-- 🔬 Apaixonado por desafios técnicos complexos e aprendizado contínuo em **IA/ML**, **Data Governance** e **AIOps**
+Desenvolvi uma **metodologia proprietária de orquestração agêntica** que me permite construir, validar e entregar software com qualidade de equipe — quality gates automatizados, cobertura de testes rigorosa e rastreabilidade completa no GitHub. O resultado: **produtos inteiros entregues por uma pessoa, com a disciplina de um time de engenharia.**
 
----
-
-## 💰 Impacto no Negócio
-
-<div align="center">
-
-| 📊 Métrica | 🔢 Resultado |
-|:--------:|:-------:|
-| **Transações/ano** | 3.5+ Bilhões |
-| **Volume Processado** | R$ 7.3+ Trilhões/ano |
-| **Uptime Sistemas Críticos** | 99.95%+ |
-| **Crescimento Receita (Salesforce)** | +55.3% (2021) + 27.6% (2024) |
-| **Redução Custos ERP** | -67% (SAP → NetSuite) |
-| **Aceleração de Deploys** | +85% (260→480/mês) |
-| **Conformidade SOC** | 95% |
-| **Auditorias Aprovadas** | 100% (20+/ano) |
-| **Equipe Gerenciada** | 160+ pessoas |
-
-</div>
+- 📍 Florianópolis, SC — Brasil
+- 🏢 Diretor de Operações de TI — **Grupo Nexxera**
+- 🔬 Foco atual: **AI-First Engineering**, **Clean Architecture**, **Desenvolvimento Agêntico**
 
 ---
 
-## 🛠️ Stack Tecnológico
+## O Que Eu Faço Diferente
 
-### ☁️ Cloud & IaaS
+Construo **produtos SaaS completos sozinho** — da concepção ao deploy — usando uma metodologia de **orquestração agêntica** que criei. Em vez de codificar cada linha, eu **projeto, delego e valido** — orquestrando agentes de IA especializados que executam planejamento, implementação, testes e release sob supervisão humana.
+
+**Na prática, isso significa:**
+
+- Cada feature passa por **planejamento → implementação → validação → release** com agentes dedicados a cada fase
+- **Quality gates automatizados** que barram código fora do padrão antes de chegar à main
+- **Clean Architecture** com cobertura de testes rigorosa por camada
+- **Rastreabilidade total** — cada commit vinculado a uma issue, cada PR validado por gates
+- **Delegação batch** para agentes autônomos com taxa de sucesso comprovada de **100%**
+
+O GitHub vira o **sistema operacional do desenvolvimento**: Issues são tarefas, PRs são entregas, Projects é o kanban, Actions é o CI — e agentes de IA fazem o trabalho pesado.
+
+---
+
+## Stack de Engenharia
+
+### AI & Desenvolvimento Agêntico
+![GitHub Copilot](https://img.shields.io/badge/GitHub_Copilot-000?style=flat-square&logo=github-copilot&logoColor=white)
+![VS Code Agents](https://img.shields.io/badge/VS_Code-Agent_Mode-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white)
+![Anthropic Claude](https://img.shields.io/badge/Anthropic-Claude-D4A574?style=flat-square&logo=anthropic&logoColor=white)
+![ChatGPT](https://img.shields.io/badge/ChatGPT-74AA9C?style=flat-square&logo=openai&logoColor=white)
+![Perplexity](https://img.shields.io/badge/Perplexity-1FB8CD?style=flat-square&logo=perplexity&logoColor=white)
+![MCP](https://img.shields.io/badge/MCP-Model_Context_Protocol-4B32C3?style=flat-square)
+![LLM Orchestration](https://img.shields.io/badge/LLM-Orchestration-FF6F00?style=flat-square)
+![Prompt Engineering](https://img.shields.io/badge/Prompt-Engineering-8B5CF6?style=flat-square)
+
+### Linguagens & Runtimes
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
+![Bash](https://img.shields.io/badge/Bash-4EAA25?style=flat-square&logo=gnu-bash&logoColor=white)
+![Bun](https://img.shields.io/badge/Bun-000?style=flat-square&logo=bun&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=node.js&logoColor=white)
+
+### Frameworks & Libs
+![Hono](https://img.shields.io/badge/Hono-E36002?style=flat-square&logo=hono&logoColor=white)
+![Drizzle ORM](https://img.shields.io/badge/Drizzle-C5F74F?style=flat-square&logo=drizzle&logoColor=black)
+![Vitest](https://img.shields.io/badge/Vitest-6E9F18?style=flat-square&logo=vitest&logoColor=white)
+![pytest](https://img.shields.io/badge/pytest-0A9EDC?style=flat-square&logo=pytest&logoColor=white)
+
+### DevOps & CI/CD
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
+![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
+![Fedora](https://img.shields.io/badge/Fedora-51A2DA?style=flat-square&logo=fedora&logoColor=white)
+
+### Cloud & Infraestrutura
 ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/Azure-0089D6?style=flat-square&logo=microsoft-azure&logoColor=white)
 ![GCP](https://img.shields.io/badge/GCP-4285F4?style=flat-square&logo=google-cloud&logoColor=white)
-![Nutanix](https://img.shields.io/badge/Nutanix-024DA1?style=flat-square&logo=nutanix&logoColor=white)
-![OpenStack](https://img.shields.io/badge/OpenStack-ED1944?style=flat-square&logo=openstack&logoColor=white)
-![oVirt](https://img.shields.io/badge/oVirt-2E8B57?style=flat-square&logo=ovirt&logoColor=white)
-
-### 🖥️ Server Management & Hardware
-![Lenovo XClarity](https://img.shields.io/badge/Lenovo_XClarity-E2231A?style=flat-square&logo=lenovo&logoColor=white)
-![Spacewalk](https://img.shields.io/badge/Spacewalk-EE0000?style=flat-square&logo=red-hat&logoColor=white)
-
-### 🐳 Containers & Orquestração (PaaS)
-![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white)
 ![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![OpenShift](https://img.shields.io/badge/OpenShift-EE0000?style=flat-square&logo=red-hat-open-shift&logoColor=white)
 
-### 🗄️ Banco de Dados & Mensageria
-![Oracle](https://img.shields.io/badge/Oracle_Exadata-F80000?style=flat-square&logo=oracle&logoColor=white)
+### Banco de Dados
 ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white)
-![MSSQL](https://img.shields.io/badge/SQL_Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![SQLite](https://img.shields.io/badge/SQLite-003B57?style=flat-square&logo=sqlite&logoColor=white)
+![LanceDB](https://img.shields.io/badge/LanceDB-Vector_DB-6C3483?style=flat-square)
 ![Redis](https://img.shields.io/badge/Redis-DC382D?style=flat-square&logo=redis&logoColor=white)
-![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=flat-square&logo=rabbitmq&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=flat-square&logo=oracle&logoColor=white)
 
-### 🌐 Networking & Security
-![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=flat-square&logo=cisco&logoColor=white)
-![FortiGate](https://img.shields.io/badge/FortiGate-EE3124?style=flat-square&logo=fortinet&logoColor=white)
-![F5](https://img.shields.io/badge/F5_BigIP-E4002B?style=flat-square&logo=f5&logoColor=white)
-![pfSense](https://img.shields.io/badge/pfSense-212121?style=flat-square&logo=pfsense&logoColor=white)
-![Ubiquiti](https://img.shields.io/badge/Ubiquiti-0559C9?style=flat-square&logo=ubiquiti&logoColor=white)
-![HPE](https://img.shields.io/badge/HPE_Networking-01A982?style=flat-square&logo=hpe&logoColor=white)
-![Lenovo](https://img.shields.io/badge/Lenovo_Switching-E2231A?style=flat-square&logo=lenovo&logoColor=white)
-
-### 📊 Monitoramento & Observability
-![Zabbix](https://img.shields.io/badge/Zabbix-D50000?style=flat-square&logo=zabbix&logoColor=white)
-![SIEM](https://img.shields.io/badge/SIEM-SOC_Operations-red?style=flat-square)
-
-### 🔒 Segurança & Vulnerability Management
-![Nessus](https://img.shields.io/badge/Nessus-00C3FF?style=flat-square&logo=tenable&logoColor=white)
-![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-orange?style=flat-square)
-![LGPD](https://img.shields.io/badge/LGPD-Compliance-green?style=flat-square)
-![SOC](https://img.shields.io/badge/SOC_1/2-Type_II-blue?style=flat-square)
-
-### 💾 Backup & DR
-![Veeam](https://img.shields.io/badge/Veeam-00B336?style=flat-square&logo=veeam&logoColor=white)
-
-### 🔧 DevOps & Automação
-![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white)
-![Jenkins](https://img.shields.io/badge/Jenkins-D24939?style=flat-square&logo=jenkins&logoColor=white)
-![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=github-actions&logoColor=white)
-![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white)
-
-### 📊 Data Governance & IA/ML
+### Data Governance & Big Data
 ![Apache Airflow](https://img.shields.io/badge/Airflow-017CEE?style=flat-square&logo=apache-airflow&logoColor=white)
 ![OpenMetadata](https://img.shields.io/badge/OpenMetadata-7B68EE?style=flat-square&logoColor=white)
 ![Airbyte](https://img.shields.io/badge/Airbyte-615EFF?style=flat-square&logo=airbyte&logoColor=white)
 ![Great Expectations](https://img.shields.io/badge/Great_Expectations-FF6F61?style=flat-square&logoColor=white)
-![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white)
-
-### 🌐 DNS & Services
-![PowerDNS](https://img.shields.io/badge/PowerDNS-00599C?style=flat-square&logo=powerdns&logoColor=white)
-
-### 💼 Sistemas de Negócio & Integração
-![Salesforce](https://img.shields.io/badge/Salesforce-00A1E0?style=flat-square&logo=salesforce&logoColor=white)
-![SAP](https://img.shields.io/badge/SAP-0FAAFF?style=flat-square&logo=sap&logoColor=white)
-![NetSuite](https://img.shields.io/badge/NetSuite-1A73E8?style=flat-square&logo=oracle&logoColor=white)
+![ClickHouse](https://img.shields.io/badge/ClickHouse-FFCC01?style=flat-square&logo=clickhouse&logoColor=black)
+![Elasticsearch](https://img.shields.io/badge/Elasticsearch-005571?style=flat-square&logo=elasticsearch&logoColor=white)
 ![MuleSoft](https://img.shields.io/badge/MuleSoft-00A1DF?style=flat-square&logo=mulesoft&logoColor=white)
-![Jira](https://img.shields.io/badge/Jira-0052CC?style=flat-square&logo=jira&logoColor=white)
 
-### 🐧 Sistemas Operacionais
-![Red Hat](https://img.shields.io/badge/Red_Hat-EE0000?style=flat-square&logo=red-hat&logoColor=white)
-![Ubuntu](https://img.shields.io/badge/Ubuntu-E95420?style=flat-square&logo=ubuntu&logoColor=white)
-![Debian](https://img.shields.io/badge/Debian-A81D33?style=flat-square&logo=debian&logoColor=white)
-![FreeBSD](https://img.shields.io/badge/FreeBSD-AB2B28?style=flat-square&logo=freebsd&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=flat-square&logo=linux&logoColor=black)
+### Segurança & Observabilidade
+![Zero Trust](https://img.shields.io/badge/Zero_Trust-Architecture-orange?style=flat-square)
+![SOC](https://img.shields.io/badge/SOC_1/2-Type_II-blue?style=flat-square)
+![LGPD](https://img.shields.io/badge/LGPD-Compliance-green?style=flat-square)
+![Zabbix](https://img.shields.io/badge/Zabbix-D50000?style=flat-square&logo=zabbix&logoColor=white)
+![Nessus](https://img.shields.io/badge/Nessus-00C3FF?style=flat-square&logo=tenable&logoColor=white)
 
 ---
 
-## 💼 Competências Profissionais
+## Resultados Comprovados
 
-### 📈 Gestão & Liderança
-<div>
+### Como AI Engineer (Solo Developer)
+- Construo **produtos SaaS completos** sozinho — da concepção à entrega — orquestrando agentes de IA
+- Metodologia própria de **orquestração agêntica** com validação humana entre fases
+- **TDD obrigatório** em 100% do código, com cobertura rigorosa por camada arquitetural
+- Skills reutilizáveis que **aceleram o bootstrap** de novos projetos
+- Pipeline de delegação para agentes autônomos com **taxa de sucesso de 100%** em execuções batch
+- **Clean Architecture** aplicada consistentemente — domain puro, ports & adapters, DI
 
-`KPIs & Indicadores` `Melhoria de Processos` `Gestão Operacional` `Planejamento de Projetos` `Gestão de Orçamentos` `Orçamento & Previsão` `Controle de Custos` `Gestão de Tecnologias` `Gestão de CRM` `Infraestrutura de TI`
+### Como Diretor de Operações de TI
 
-</div>
+<div align="center">
 
-### 🔒 Segurança & Compliance
-<div>
-
-`Governança de Segurança da Informação` `Cibersegurança` `Governança de TI` `NIST` `Normas ISO` `SOC 1/2 Type II` `LGPD` `Zero Trust` `SIEM` `Nessus`
-
-</div>
-
-### 🖥️ Infraestrutura & Virtualização
-<div>
-
-`Linux (22+ recomendações)` `RHEL` `Debian` `Ubuntu` `FreeBSD` `VMware/ESX` `KVM` `Nutanix` `OpenStack` `oVirt` `High Availability Clustering` `DRBD` `NFS` `Embedded Linux` `Kernel Linux` `XClarity` `Spacewalk`
-
-</div>
-
-### ☁️ Cloud & Containers
-<div>
-
-`AWS` `Azure` `GCP` `Docker` `Kubernetes` `OpenShift`
+| Métrica | Resultado |
+|:-------:|:---------:|
+| **Transações/ano** | 3.5+ Bilhões |
+| **Volume Processado** | R$ 7.3+ Trilhões/ano |
+| **Uptime Crítico** | 99.95%+ |
+| **Aceleração de Deploys** | +85% |
+| **Redução Custos ERP** | -67% |
+| **Conformidade SOC** | 95% |
+| **Equipe** | 160+ pessoas |
 
 </div>
 
-### 🗄️ Banco de Dados
+---
+
+## Competências
+
+### Engenharia Agêntica & IA
 <div>
 
-`Oracle Exadata` `PostgreSQL` `MySQL` `SQL Server` `MongoDB` `Redis`
+`Orquestração de Agentes de IA` `Ciclo PDCA com LLMs` `Prompt Engineering` `GitHub Copilot Agent Mode` `Anthropic Claude` `ChatGPT` `Perplexity` `MCP (Model Context Protocol)` `TDD com IA` `Quality Gates Automatizados` `Clean Architecture` `Delegação para Agentes Autônomos` `AI-First Development`
 
 </div>
 
-### 🌐 Networking & Protocolos
+### Liderança & Gestão
 <div>
 
-`BGP` `OSPF` `RIP` `Roteamento Dinâmico` `Cisco Systems` `FortiGate` `F5 BigIP` `pfSense` `Ubiquiti` `HPE` `Lenovo` `PowerDNS` `Switches` `Serviços de Rede` `Protocolo IP`
+`Gestão de 160+ Pessoas` `6 Áreas Estratégicas` `KPIs & OKRs` `Planejamento Orçamentário` `Melhoria de Processos` `ITIL` `Scrum` `DevOps` `DevSecOps`
 
 </div>
 
-### 📊 Monitoramento & Backup
+### Infraestrutura & Cloud
 <div>
 
-`Zabbix` `Veeam` `SIEM`
+`AWS` `Azure` `GCP` `Kubernetes` `OpenShift` `Docker` `Linux (22+ recomendações)` `Nutanix` `OpenStack` `High Availability` `Disaster Recovery`
 
 </div>
 
-### 🔧 Web Servers & Middleware
+### Data Governance & Big Data
 <div>
 
-`Apache HTTP Server` `Apache Tomcat` `Postfix` `Sendmail` `Squid` `PHP` `PhpMyAdmin`
+`OpenMetadata` `Apache Airflow` `Airbyte` `Great Expectations` `ClickHouse` `Elasticsearch` `LanceDB` `MuleSoft` `Data Catalog` `Data Quality` `ETL/ELT` `API Gateway`
 
 </div>
 
-### 📊 Metodologias & Frameworks
+### Segurança & Compliance
 <div>
 
-`ITIL (12+ recomendações)` `Scrum (8+ recomendações)` `DevOps` `DevSecOps` `Sistemas Operacionais (19+ recomendações)`
+`SOC 1/2 Type II` `LGPD` `Zero Trust` `NIST` `ISO 27001` `Cibersegurança` `SIEM` `Nessus`
 
 </div>
 
-### 💳 Domínio de Negócio
+### Domínio de Negócio
 <div>
 
-`Setor de Pagamentos` `Fintech` `Provedores de Internet (ISP)` `Missão Crítica` `Alta Disponibilidade`
+`Fintech` `Pagamentos` `Missão Crítica` `SaaS` `Alta Disponibilidade`
 
 </div>
 
@@ -300,6 +278,8 @@ Arquitetura hands-on de plataforma completa de governança:
 - **Tecnólogo em Telecomunicações** - SENAI/SC (2007)
 
 ### 📜 Cursos & Certificações Recentes
+- Desenvolvimento Agêntico & Orquestração de LLMs (2025-2026)
+- GitHub Copilot Agent Mode & MCP (2025)
 - IA com Engenharia de Prompt (2024)
 - IA Vertex GCP (2024)
 - Design de Serviços (2022)
@@ -344,11 +324,11 @@ Arquitetura hands-on de plataforma completa de governança:
 
 Estou sempre aberto a discutir:
 
+- 🤖 **Desenvolvimento Agêntico** — como orquestrar IA para construir produtos completos
 - 🏗️ Arquitetura de infraestrutura de **missão crítica**
 - ☁️ Estratégias de **cloud híbrida** (AWS/Azure/GCP + On-Prem)
-- 📊 **Data Governance** e **API Intelligence**
+- 📊 **Data Governance**, **Data Quality** e **API Intelligence**
 - 🔄 **Transformação Digital** e **DevOps/DevSecOps**
-- 🤖 Implementação de **IA/ML** e **AIOps** em operações
 - 🔒 **Cybersecurity**, **Zero Trust** e **Compliance** (SOC, LGPD)
 - 💳 Tecnologia no setor **financeiro** e **pagamentos**
 
