@@ -14,29 +14,29 @@
 
 ## Sobre Mim
 
-Líder de Tecnologia com **+20 anos de experiência** em infraestrutura de missão crítica e gestão de equipes de até **160 profissionais**. Nos últimos anos, fiz a transição para **engenharia de desenvolvimento com IA**, construindo produtos SaaS completos como desenvolvedor solo — orquestrando equipes de agentes especializados em vez de escrever cada linha manualmente.
+Líder de Tecnologia com **+20 anos de experiência** em infraestrutura de missão crítica e gestão de equipes de até **160 profissionais**. Nos últimos anos, fiz a transição para **engenharia de desenvolvimento com IA**, construindo produtos SaaS completos como desenvolvedor solo orquestrando equipes de agentes especializados em vez de escrever cada linha manualmente.
 
-Desenvolvi uma **metodologia proprietária de orquestração agêntica** que me permite construir, validar e entregar software com qualidade de equipe — quality gates automatizados, cobertura de testes rigorosa e rastreabilidade completa no GitHub. O resultado: **produtos inteiros entregues por uma pessoa, com a disciplina de um time de engenharia.**
+Desenvolvi uma **metodologia proprietária de orquestração agêntica** que me permite construir, validar e entregar software com qualidade de equipe  quality gates automatizados, cobertura de testes rigorosa e rastreabilidade completa no GitHub. O resultado: **produtos inteiros entregues por uma pessoa, com a disciplina de um time de engenharia.**
 
-- 📍 Florianópolis, SC — Brasil
-- 🏢 Diretor de Operações de TI — **Grupo Nexxera**
+- 📍 Florianópolis, SC  Brasil
+- 🏢 Diretor de Operações de TI  **Grupo Nexxera**
 - 🔬 Foco atual: **AI-First Engineering**, **Clean Architecture**, **Desenvolvimento Agêntico**
 
 ---
 
 ## O Que Eu Faço Diferente
 
-Construo **produtos SaaS completos sozinho** — da concepção ao deploy — usando uma metodologia de **orquestração agêntica** que criei. Em vez de codificar cada linha, eu **projeto, delego e valido** — orquestrando agentes de IA especializados que executam planejamento, implementação, testes e release sob supervisão humana.
+Construo **produtos SaaS completos sozinho**  da concepção ao deploy  usando uma metodologia de **orquestração agêntica** que criei. Em vez de codificar cada linha, eu **projeto, delego e valido**  orquestrando agentes de IA especializados que executam planejamento, implementação, testes e release sob supervisão humana.
 
 **Na prática, isso significa:**
 
 - Cada feature passa por **planejamento → implementação → validação → release** com agentes dedicados a cada fase
 - **Quality gates automatizados** que barram código fora do padrão antes de chegar à main
 - **Clean Architecture** com cobertura de testes rigorosa por camada
-- **Rastreabilidade total** — cada commit vinculado a uma issue, cada PR validado por gates
+- **Rastreabilidade total**  cada commit vinculado a uma issue, cada PR validado por gates
 - **Delegação batch** para agentes autônomos com taxa de sucesso comprovada de **100%**
 
-O GitHub vira o **sistema operacional do desenvolvimento**: Issues são tarefas, PRs são entregas, Projects é o kanban, Actions é o CI — e agentes de IA fazem o trabalho pesado.
+O GitHub vira o **sistema operacional do desenvolvimento**: Issues são tarefas, PRs são entregas, Projects é o kanban, Actions é o CI  e agentes de IA fazem o trabalho pesado.
 
 ---
 
@@ -108,12 +108,12 @@ O GitHub vira o **sistema operacional do desenvolvimento**: Issues são tarefas,
 ## Resultados Comprovados
 
 ### Como AI Engineer (Solo Developer)
-- Construo **produtos SaaS completos** sozinho — da concepção à entrega — orquestrando agentes de IA
+- Construo **produtos SaaS completos** sozinho  da concepção à entrega  orquestrando agentes de IA
 - Metodologia própria de **orquestração agêntica** com validação humana entre fases
 - **TDD obrigatório** em 100% do código, com cobertura rigorosa por camada arquitetural
 - Skills reutilizáveis que **aceleram o bootstrap** de novos projetos
 - Pipeline de delegação para agentes autônomos com **taxa de sucesso de 100%** em execuções batch
-- **Clean Architecture** aplicada consistentemente — domain puro, ports & adapters, DI
+- **Clean Architecture** aplicada consistentemente  domain puro, ports & adapters, DI
 
 ### Como Diretor de Operações de TI
 
@@ -324,7 +324,7 @@ Arquitetura hands-on de plataforma completa de governança:
 
 Estou sempre aberto a discutir:
 
-- 🤖 **Desenvolvimento Agêntico** — como orquestrar IA para construir produtos completos
+- 🤖 **Desenvolvimento Agêntico**  como orquestrar IA para construir produtos completos
 - 🏗️ Arquitetura de infraestrutura de **missão crítica**
 - ☁️ Estratégias de **cloud híbrida** (AWS/Azure/GCP + On-Prem)
 - 📊 **Data Governance**, **Data Quality** e **API Intelligence**
