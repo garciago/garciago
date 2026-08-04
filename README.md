@@ -32,12 +32,12 @@ Desde **junho de 2026** atuo como **consultor independente de tecnologia**: aten
 
 > **Toda solução começa com um diagnóstico.** Minha consultoria é ampla, cobrindo infraestrutura, dados, segurança, governança e adoção de IA, mas sempre inicia pelo mesmo lugar: um **diagnóstico de prontidão tecnológica** que revela onde a tecnologia sustenta o negócio e onde ela o coloca em risco. A partir dele, o engajamento permeia os temas que a solução exigir.
 
-### O método: pipeline cSDLC de 5 fases
+### O método: Diagnóstico de Prontidão Tecnológica em 5 fases
 
 ```mermaid
 flowchart LR
-    F0(["0 · Classificar"]) --> F1(["1 · Elucidar"]) --> F2(["2 · Planejar"]) --> F3(["3 · Entregar"]) --> F4(["4 · Acompanhar"])
-    F4 -. "o negócio mudou? reclassifica" .-> F0
+    F0(["1 · Contexto"]) --> F1(["2 · Discovery"]) --> F2(["3 · Priorização"]) --> F3(["4 · Devolutiva"]) --> F4(["5 · Acompanhamento"])
+    F4 -. "o negócio mudou? volta ao contexto" .-> F0
     F0 -.- A0["Segmento e regulação<br/>com evidência declarada"]
     F1 -.- A1["Discovery de TI e dados<br/>gap analysis NIST CSF 2.0"]
     F2 -.- A2["Matriz dor, risco, valor<br/>quick wins vs estruturais"]
@@ -105,7 +105,7 @@ O GitHub vira o **sistema operacional do trabalho**: Issues são tarefas, PRs s�
 |:--|:--:|
 | PRs merged na Plataforma XPTO (solo, agêntico) | **~2.000** |
 | TDD no código produzido | **100%** |
-| Método de consultoria formalizado e reutilizável | **cSDLC 5 fases** |
+| Método de consultoria formalizado e reutilizável | **Diagnóstico de Prontidão Tecnológica em 5 fases** |
 
 ### Como Diretor de Operações de TI · Grupo Nexxera (ciclo encerrado em mai/2026)
 
