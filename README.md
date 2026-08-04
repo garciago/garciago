@@ -52,7 +52,7 @@ O pipeline é ancorado em frameworks que um conselho reconhece: **NIST CSF 2.0**
 - 🔎 **Evidência antes de afirmação:** número só entra em entregável com fonte rastreável; toda devolutiva passa por revisão adversarial registrada antes de chegar ao cliente.
 - 🤖 **Agentes aceleram, não assinam:** o trabalho braçal desce para agentes de IA; o julgamento e a assinatura ficam com o consultor.
 - ✅ **Pronto de verdade:** o critério de conclusão é o sponsor apresentar o resultado ao próprio conselho, sem o consultor na sala.
-- 🤝 **A consultoria conserta, não humilha:** linguagem que resolve o problema sem constranger as pessoas do cliente.
+- 🤝 **Parceria com quem está dentro:** o diagnóstico aponta caminhos, nunca culpados; a linguagem respeita e fortalece o time do cliente.
 
 ### Formatos de atuação
 
