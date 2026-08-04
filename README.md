@@ -54,6 +54,15 @@ O pipeline é ancorado em frameworks que um conselho reconhece: **NIST CSF 2.0**
 - ✅ **Pronto de verdade:** o critério de conclusão é o sponsor apresentar o resultado ao próprio conselho, sem o consultor na sala.
 - 🤝 **A consultoria conserta, não humilha:** linguagem que resolve o problema sem constranger as pessoas do cliente.
 
+### Formatos de atuação
+
+| Formato | O que entrego |
+|---|---|
+| 🔍 **Diagnóstico de Prontidão Tecnológica** | Avaliação de maturidade e gap analysis: a porta de entrada de todo engajamento |
+| 🧩 **Consultoria por projeto** | Da priorização à adoção, com quick wins de até 30 dias separados dos estruturais |
+| 🎯 **CIO / CISO / COO as a Service** | Liderança executiva sob demanda, com a bagagem de quem dirigiu TI, Segurança e Operações de uma fintech de missão crítica |
+| 🏛️ **Board Advisor** | Apoio a conselhos de administração em risco tecnológico, na linguagem que o conselho reconhece: NIST CSF, SOC, LGPD |
+
 ### Setores de atuação
 
 `Financeiro` `Saúde` `Indústria / OT` `Varejo` `Infraestrutura crítica`
