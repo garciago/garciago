@@ -17,7 +17,7 @@
 
 ## 👋 Sobre Mim
 
-Líder de tecnologia com **mais de 20 anos** em infraestrutura de missão crítica no setor financeiro, liderando equipes de até **160 profissionais**. Fui **Diretor de Operações de TI do Grupo Nexxera** por duas décadas de casa, com a diretoria encerrada em maio de 2026.
+Líder de tecnologia com **mais de 20 anos** em infraestrutura de missão crítica no setor financeiro, liderando equipes de até **160 profissionais**. Atuei como **Diretor de Operações de TI do Grupo Nexxera** e por duas décadas de casa desempenhei deiversos papeis e cuidei de diversos setores, com minha ultima atuaçao encerrada em maio de 2026.
 
 Desde **junho de 2026** atuo como **consultor independente de tecnologia**: atendo o Grupo Nexxera como cliente e estou **aberto a novos clientes no mercado**. Em paralelo, sou fundador da **Plataforma XPTO**, uma plataforma de governança e inteligência de dados que construo sozinho, orquestrando agentes de IA com disciplina de time de engenharia.
 
